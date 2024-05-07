@@ -20,8 +20,8 @@ function sortAscending(arr) {
   return result
 }
 
-console.log(sortAscending([5, 3, 10, 8]))
-console.log(sortAscending([5, 3, 10, 8]))
+console.log(sortAscending([5, 3, 1, 8]))
+// console.log(sortAscending([5, 3, 10, 8]))
 
 //  a function should take an array of numbers as input
 //  it should return an new array with the numbers sorted in ascending order.
